@@ -63,7 +63,7 @@ function clearVar(name = '') {
 
 //function defination
 function mathOperation() {
-    if (lastOperation === '*') {
+    if (lastOperation === 'X') {
         result = parseFloat(result) * parseFloat(dis2Num);
     } else if (lastOperation === '+') {
         result = parseFloat(result) + parseFloat(dis2Num);

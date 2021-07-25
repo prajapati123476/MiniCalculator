@@ -69,3 +69,20 @@ section {
 .btn-0 {
     grid-column: 1/3;
 }
+
+/*
+littiefiles animation style
+*/
+.lottiefile {
+    padding: 20%;
+    margin-left: -40%;
+    margin-top: -20%;
+
+}
+.lottiefile h1 {
+    color: white;
+    padding: 3%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
